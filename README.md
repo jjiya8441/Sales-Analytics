@@ -60,10 +60,10 @@ DAX (Measures & Calculations)
 
 SQL (Data extraction & transformation)
 
-🚀 Outcome
-
-This dashboard demonstrates practical business analytics skills, KPI design, and data storytelling using Power BI.
-
 Data Modeling & Relationships
 
 Conditional Formatting & KPI Indicators
+
+🚀 Outcome
+
+This dashboard demonstrates practical business analytics skills, KPI design, and data storytelling using Power BI.
